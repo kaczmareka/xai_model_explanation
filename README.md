@@ -21,43 +21,6 @@ For the intermediate submission, please enter the group and dataset information.
 
 We chose a random forest classifier as a model which we would like to explain. As a dataset for our model, we decided to use a heart attack dataset which contains patients’ medical information based on which we will try to predict the chance of a patient getting a heart attack. We downloaded the dataset from Kaggle (https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset), from the user Rashik Rahman. The main objective of our project is to clearly communicate and explain predictions of the random forest.
 
-## Intermediate Presentation on the 09.12.2021 (optional)
-The presentations will be held during the Q&A sessions on that day.
-For more details, please refer to the assignment description.
-
-## Final Submission due on 15.12.2021, 23:59
-The submission is done with this repository. Make to push your code until the deadline.
-
-The repository has to include the implementations of the picked approaches and the filled out report in this README.
-
-* Sending us an email with the code is not necessary.
-* Update the *environment.yml* file if you need additional libraries, otherwise the code is not executeable.
-* Save your final executed notebook(s) as html (File > Download as > HTML) and add them to your repository.
-
-## Development Environment
-
-Checkout this repo and change into the folder:
-```
-git clone https://github.com/jku-icg-classroom/xai_model_explanation_2021-<GROUP_NAME>.git
-cd xai_model_explanation_2021-<GROUP_NAME>
-```
-
-Load the conda environment from the shared `environment.yml` file:
-```
-conda env create -f environment.yml
-conda activate xai_model_explanation
-```
-
-> Hint: For more information on Anaconda and enviroments take a look at the README in our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
-
-Then launch Jupyter Lab:
-```
-jupyter lab
-```
-
-Alternatively, you can also work with [binder](https://mybinder.org/), [deepnote](https://deepnote.com/), [colab](https://colab.research.google.com/), or any other service as long as the notebook runs in the standard Jupyter environment.
-
-
 ## Report
 
 ### Model & Data

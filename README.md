@@ -1,4 +1,4 @@
-### Project done in winter semester 2021/2022 at Johannes Kepler University in Linz
+### Project created in winter semester 2021/2022 at Johannes Kepler University in Linz
 --------------------------------------------------------------------------------
 
 # Explainable AI Assignment 2 - Model Explanations

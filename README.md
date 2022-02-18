@@ -1,3 +1,5 @@
+# Project done in winter semester 2021/2022 at Johannes Kepler University in Linz
+--------------------------------------------------------------------------------
 
 # Explainable AI Assignment 2 - Model Explanations
 In this assignment, you are challenged to explain a model. For this, you will research exisiting approaches and apply them to your model and interpret the results.
